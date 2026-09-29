@@ -2,41 +2,66 @@
 
 ### AI Engineer | Generative AI | Agentic AI | RAG
 
-I build AI applications that combine LLMs with agents, retrieval,
-tool calling, APIs, databases, authentication and observability.
+I build and deploy AI applications that combine **LLMs, agents, retrieval, tool calling, APIs, databases, authentication, and observability**.
 
-## 🚀 What I Build
+My current focus is **AI Engineering × Computer Networks × Security**, with an emphasis on practical, production-oriented GenAI systems.
 
-- Agentic AI systems
-- RAG and Hybrid RAG applications
-- MCP-based AI tools
-- AI developer tools
-- AI systems involving Computer Networks
-- Security-aware AI applications
+## 🚀 Featured Projects
 
-## ⭐ Featured Projects
+### 🤖 Personal Assistant
+Multi-agent AI assistant built with **LangGraph, MCP, RAG, FastAPI, Groq, Supabase, Mem0 and LangSmith**.
 
-### Personal Assistant
-Multi-agent AI assistant using LangGraph, MCP, RAG and FastAPI.
+🔗 [Repository](https://github.com/krk-90/PERSONAL-ASSISTANT) · [Live Demo](https://personal-assistant-4ogi.onrender.com)
 
-### Clocket AI
-AI developer onboarding assistant for repository analysis,
-architecture understanding and codebase Q&A.
+### 🧑‍💻 Clocket AI
+AI-powered developer onboarding assistant that analyzes GitHub repositories, explains architecture, generates setup guidance, suggests starter tasks, and supports repository-grounded Q&A.
 
-### Network Debugger Agent
-AI-powered network troubleshooting using Agentic RAG,
-LangGraph and MCP diagnostic tools.
+🔗 [Repository](https://github.com/krk-90/CLOCKET-AI) · [Live Demo](https://clocket-ai.onrender.com)
 
-### Hybrid RAG Code Assistant
-Codebase Q&A using dense retrieval, BM25 and cross-encoder reranking.
+### 🌐 Network Debugger Agent
+AI network troubleshooting system using **Agentic RAG, LangGraph, MCP diagnostic tools, FastAPI and real network checks**.
+
+🔗 [Repository](https://github.com/krk-90/Network-Debugger-Agent-powered-by-agentic-RAG)
+
+### 🔎 Hybrid RAG Code Assistant
+Codebase Q&A system combining **dense retrieval, BM25, retrieval fusion, cross-encoder reranking and LLM generation**.
+
+🔗 [Repository](https://github.com/krk-90/CODEBASE-ASSISTANT-powered-by-HYBRID_RAG)
 
 ## 🛠️ Tech Stack
 
-Python • FastAPI • LangChain • LangGraph • MCP • RAG
-• Groq • PostgreSQL • Supabase • pgvector • Chroma
-• Docker • React • Git/GitHub • LangSmith
+**AI / GenAI**
+- Generative AI · LLM Applications · RAG · Hybrid RAG
+- Agentic AI · AI Agents · LangChain · LangGraph · MCP
+
+**Backend / Data**
+- Python · FastAPI · PostgreSQL · Supabase · pgvector
+- Chroma · REST APIs · Authentication · RLS
+
+**Infrastructure / Tools**
+- Docker · Render · Git · GitHub · LangSmith
+- React · Vite · Linux
 
 ## 🎯 Currently Learning
 
-DSA • Operating Systems • Databases • Computer Networks
-• System Design • AI Engineering
+- Data Structures & Algorithms
+- Operating Systems
+- Databases
+- Computer Networks
+- System Design
+- Production AI Engineering
+
+## 📌 What I'm Interested In
+
+- AI / GenAI Engineering
+- Agentic AI systems
+- RAG and retrieval systems
+- AI developer tools
+- MCP-based applications
+- AI × Computer Networks
+- Security-aware AI systems
+
+## 🤝 Open To
+
+**AI/ML and Generative AI engineering internship opportunities.**
+
