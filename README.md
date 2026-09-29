@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kaushik Rajagiri 👋
 
-<!--
-**krk-90/krk-90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Generative AI | Agentic AI | RAG
 
-Here are some ideas to get you started:
+I build AI applications that combine LLMs with agents, retrieval,
+tool calling, APIs, databases, authentication and observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+
+- Agentic AI systems
+- RAG and Hybrid RAG applications
+- MCP-based AI tools
+- AI developer tools
+- AI systems involving Computer Networks
+- Security-aware AI applications
+
+## ⭐ Featured Projects
+
+### Personal Assistant
+Multi-agent AI assistant using LangGraph, MCP, RAG and FastAPI.
+
+### Clocket AI
+AI developer onboarding assistant for repository analysis,
+architecture understanding and codebase Q&A.
+
+### Network Debugger Agent
+AI-powered network troubleshooting using Agentic RAG,
+LangGraph and MCP diagnostic tools.
+
+### Hybrid RAG Code Assistant
+Codebase Q&A using dense retrieval, BM25 and cross-encoder reranking.
+
+## 🛠️ Tech Stack
+
+Python • FastAPI • LangChain • LangGraph • MCP • RAG
+• Groq • PostgreSQL • Supabase • pgvector • Chroma
+• Docker • React • Git/GitHub • LangSmith
+
+## 🎯 Currently Learning
+
+DSA • Operating Systems • Databases • Computer Networks
+• System Design • AI Engineering
