@@ -6,29 +6,29 @@ I build and deploy AI applications that combine **LLMs, agents, retrieval, tool 
 
 My current focus is **AI Engineering × Computer Networks × Security**, with an emphasis on practical, production-oriented GenAI systems.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔥 OpenForge AI
+###  OpenForge AI
 AI-powered open-source contribution platform that analyzes GitHub profiles and repositories, matches issues to developer skills, explains codebases with repository-grounded RAG, mentors contributors, and assesses pull-request readiness.
 
 🔗 [Repository](https://github.com/krk-90/OpenForge-AI) · [Live Demo](https://openforge-ai-wbjh.onrender.com)
 
-### 🤖 Personal Assistant
+###  Personal Assistant
 Multi-agent AI assistant built with **LangGraph, MCP, RAG, FastAPI, Groq, Supabase, Mem0 and LangSmith**.
 
 🔗 [Repository](https://github.com/krk-90/PERSONAL-ASSISTANT) · [Live Demo](https://personal-assistant-4ogi.onrender.com)
 
-### 🧑‍💻 Clocket AI
+###  Clocket AI
 AI-powered developer onboarding assistant that analyzes GitHub repositories, explains architecture, generates setup guidance, suggests starter tasks, and supports repository-grounded Q&A.
 
 🔗 [Repository](https://github.com/krk-90/CLOCKET-AI) · [Live Demo](https://clocket-ai.onrender.com)
 
-### 🌐 Network Debugger Agent
+###  Network Debugger Agent
 AI network troubleshooting system using **Agentic RAG, LangGraph, MCP diagnostic tools, FastAPI and real network checks**.
 
 🔗 [Repository](https://github.com/krk-90/Network-Debugger-Agent-powered-by-agentic-RAG)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **AI / GenAI**
 - Generative AI · LLM Applications · RAG · Hybrid RAG
@@ -42,7 +42,7 @@ AI network troubleshooting system using **Agentic RAG, LangGraph, MCP diagnostic
 - Docker · Render · Git · GitHub · LangSmith
 - React · Vite · Linux
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Data Structures & Algorithms
 - Operating Systems
@@ -51,7 +51,7 @@ AI network troubleshooting system using **Agentic RAG, LangGraph, MCP diagnostic
 - System Design
 - Production AI Engineering
 
-## 📌 What I'm Interested In
+##  What I'm Interested In
 
 - AI / GenAI Engineering
 - Agentic AI systems
