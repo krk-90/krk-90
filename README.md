@@ -8,6 +8,11 @@ My current focus is **AI Engineering × Computer Networks × Security**, with an
 
 ## 🚀 Featured Projects
 
+### 🔥 OpenForge AI
+AI-powered open-source contribution platform that analyzes GitHub profiles and repositories, matches issues to developer skills, explains codebases with repository-grounded RAG, mentors contributors, and assesses pull-request readiness.
+
+🔗 [Repository](https://github.com/krk-90/OpenForge-AI) · [Live Demo](https://openforge-ai-wbjh.onrender.com)
+
 ### 🤖 Personal Assistant
 Multi-agent AI assistant built with **LangGraph, MCP, RAG, FastAPI, Groq, Supabase, Mem0 and LangSmith**.
 
@@ -22,11 +27,6 @@ AI-powered developer onboarding assistant that analyzes GitHub repositories, exp
 AI network troubleshooting system using **Agentic RAG, LangGraph, MCP diagnostic tools, FastAPI and real network checks**.
 
 🔗 [Repository](https://github.com/krk-90/Network-Debugger-Agent-powered-by-agentic-RAG)
-
-### 🔎 Hybrid RAG Code Assistant
-Codebase Q&A system combining **dense retrieval, BM25, retrieval fusion, cross-encoder reranking and LLM generation**.
-
-🔗 [Repository](https://github.com/krk-90/CODEBASE-ASSISTANT-powered-by-HYBRID_RAG)
 
 ## 🛠️ Tech Stack
 
@@ -64,4 +64,3 @@ Codebase Q&A system combining **dense retrieval, BM25, retrieval fusion, cross-e
 ## 🤝 Open To
 
 **AI/ML and Generative AI engineering internship opportunities.**
-
