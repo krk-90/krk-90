@@ -13,6 +13,8 @@ AI-powered open-source contribution platform that analyzes GitHub profiles and r
 
 🔗 [Repository](https://github.com/krk-90/OpenForge-AI) · [Live Demo](https://openforge-ai-wbjh.onrender.com)
 
+**Online evaluation snapshot (October 14, 2026):** 8 of 9 checks passed (88.89%) over 61.33 seconds. The documentation endpoint returned HTTP 502 and remains a known issue. The run also verified session listing and saved chat history; it did not measure RAG answer quality, security robustness, or load performance.
+
 ###  Personal Assistant
 Multi-agent AI assistant built with **LangGraph, MCP, RAG, FastAPI, Groq, Supabase, Mem0 and LangSmith**.
 
